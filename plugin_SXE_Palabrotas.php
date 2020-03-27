@@ -2,7 +2,7 @@
 / *
  * Nombre del complemento: plugin_SXE_Palabrotas
  * Descripción: este complemento censura su seleccion de palabrotas.
- * Versión: 1.0
+ * Versión: 1.1
  * /
 
 //Creacion de BBDD y creacion de tabla palabrotas
